@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Azure Functions auto-packages
+.python_packages/
+
+# Local Azure settings (never push)
+local.settings.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env

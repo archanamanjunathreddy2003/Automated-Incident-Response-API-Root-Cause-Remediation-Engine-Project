@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[3.10.0, 3.11.0)"
+  }
+}
